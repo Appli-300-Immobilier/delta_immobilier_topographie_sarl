@@ -4,9 +4,9 @@
 - **Company Name:** DELTA Immobilier Topographie SARL
 - **Directory:** delta_immobilier_topographie_sarl
 - **Address/Contact:** 
-  - La r�f�rence en terme d�acquisition de terrains titr�s et lotis
+  - La référence en terme déacquisition de terrains titrés et lotis
   - 
-  - Page � Immobilier � Vente et r�paration de distributeurs automatiques
+  - Page é Immobilier é Vente et réparation de distributeurs automatiques
   - 
   - Kribi, Cameroon
   - 
